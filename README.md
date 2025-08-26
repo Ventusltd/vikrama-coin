@@ -11,7 +11,7 @@ draft stage
  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝
            VIKRAMA COIN PROTOCOL
      A Sovereign Bond Framework for India
-         INITIATING CHAKRA ALIGNMENT...
+         
 
 <pre>
 ```
