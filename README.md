@@ -53,29 +53,18 @@ India’s untapped capacity becomes global financial credibility.
 </pre>
 
 
-### Preamble: Reforging “Vikrama” from History to Doctrine
 
-In ancient India, coinage was not merely currency — it was a symbol of sovereignty, artistic grace, and the weight of empire.
+**Roots.**
 
-The Gupta emperor **Chandragupta II**, who bore the title *Vikramaditya* (“Sun of Valour”), minted coins inscribed with **“Vikrama”** to express sovereign and heroic might. These copper, silver, and gold coins became instruments of legitimacy, commerce, and civilisational memory.
+- Not as relic, but as reinvention—**a unit of sovereign trust**, anchored not in gold, but in infrastructure.
+- Not to circulate, but to **anchor value** in tunnel-mined materials, geological storage, and physical labour.
+- Not to rally traders, but to **empower builders**, treating infrastructure as sacred duty.
 
-Even earlier, Indian kingdoms issued **punch-marked copper coins** (*Karshapanas*) — an indigenous monetary system predating Greek and Persian influence by centuries.
-
----
-
-**Today, we reclaim “Vikrama” for a new era.**
-
-- Not as relic, but as reinvention — a unit of sovereign trust, forged not in gold but in infrastructure.
-- Not to circulate, but to anchor value in tunnel-mined material, stored energy, and verified labour.
-- Not to rally traders, but to empower builders who embody action as devotion.
-
-> **Vikrama Coin** is more than homage to classical wealth.  
-> It is the first artefact of a new civilisational architecture — an unassuming bond-framework built on earth, energy, and silent worship through work.
+> **Vikrama Coin** is more than homage to ancient wealth.  
+> It is the first artefact of a living civilisational architecture—a sovereign bond prototype built of earth, energy, and unspoken devotion.
 
 ---
 
 **Sources:**
-- https://en.wikipedia.org/wiki/Chandragupta_II  
-- https://en.wikipedia.org/wiki/Karshapana  
-- https://rbidocs.rbi.org.in/rdocs/content/PDFs/89688.pdf  
-- https://www.britishmuseum.org/collection/object/C_1874-0701-67
+- Chandragupta II as Vikramaditya and coin inscriptions  [oai_citation:2‡Facebook](https://www.facebook.com/historyplus1230/posts/emperor-chandragupta-ii-in-war-attirethis-coin-belonged-to-chandragupta-ii-vikra/164345175104621/?utm_source=chatgpt.com) [oai_citation:3‡Wikipedia](https://en.wikipedia.org/wiki/Chandragupta_II?utm_source=chatgpt.com)  
+- Ancient Indian punch‑marked coins (Karshapana)  [oai_citation:4‡Wikipedia](https://en.wikipedia.org/wiki/Karshapana?utm_source=chatgpt.com)
