@@ -60,7 +60,7 @@ India’s untapped capacity becomes global financial credibility.
 - Not to circulate, but to **anchor value** in tunnel-mined materials, geological storage, and physical labour.
 - Not to rally traders, but to **empower builders**, treating infrastructure as sacred duty.
 
-> **Vikrama Coin** is more than homage to ancient wealth.  
+> **Vikrama Coin** is more than reference to ancient wealth.  
 > It is the first artefact of a living civilisational architecture—a sovereign bond prototype built of earth, energy and London based financial planning. 
 
 ---
