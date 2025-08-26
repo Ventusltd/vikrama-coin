@@ -11,7 +11,26 @@ draft stage
  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝
            VIKRAMA COIN PROTOCOL
      A Sovereign Bond Framework for India
-         
+
+# vikrama-coin  
+Deep Tunnel Mining Study of India  
+draft stage
+
+This is not a currency. It is not a crypto token.
+
+This is a sovereign bond framework grounded in:
+- Physical mining and tunnelling infrastructure
+- Battery storage, energy caverns, and resource collateral
+- Labour-backed national execution
+
+Phase 1: Off-chain whitepaper  
+Phase 2: Verified bond issuance  
+Phase 3: Blockchain mirror for transparency, trust, and capital flow
+
+We begin with tunnels.  
+We build the ledger later.  
+India’s untapped capacity becomes global financial credibility.
+
 
 <pre>
 ```
